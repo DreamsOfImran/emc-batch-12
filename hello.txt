@@ -1,2 +1,15 @@
 Working Directory -> git add -> Staging Area -> git commit -> Local Repo ->
 git push -> Remote Repo (GitHub)
+
+
+git status
+git add
+git commit -m "message"
+git push
+git pull
+git clone
+git branch
+git checkout
+git merge
+git log
+
