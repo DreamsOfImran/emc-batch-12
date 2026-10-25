@@ -1,0 +1,2 @@
+Working Directory -> git add -> Staging Area -> git commit -> Local Repo ->
+git push -> Remote Repo (GitHub)
